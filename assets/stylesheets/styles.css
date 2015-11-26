@@ -7,3 +7,18 @@ header {
   color: darkblue;
   font-size: 30px;
 }
+
+h2 {
+  color: darkblue;
+  font-size: 20px;
+}
+
+h3 {
+  color: orange;
+  font-size: 20px;
+}
+
+footer {
+  color: darkblue;
+  font-size: 20px;
+}
